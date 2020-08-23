@@ -3,4 +3,7 @@
     <string name="button_send">Send</string>
     <string name="activity2_name">Second Activity</string>
     <string name="act2_msgrcvd">Message Received</string>
+    <string name="editText_main">Write here</string>
+    <string name="textview2">Send smth back!</string>
+    <string name="button_sendback">With gusto</string>
 </resources>
